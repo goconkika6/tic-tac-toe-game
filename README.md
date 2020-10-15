@@ -1,4 +1,4 @@
-# tik-tak-toc-game
+# tic-tac-toe-game
 
 Tik tak toc game on python that will play on the terminal.
 Two players.
